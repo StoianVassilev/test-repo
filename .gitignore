@@ -1,0 +1,7 @@
+$ cat .gitignore
+
+# ignore all .tmp files
+*.tmp
+
+# ignore all files whose names end with a tilde (~)
+*~
