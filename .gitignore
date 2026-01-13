@@ -5,3 +5,4 @@ $ cat .gitignore
 
 # ignore all files whose names end with a tilde (~)
 *~
+ssmtp.conf
