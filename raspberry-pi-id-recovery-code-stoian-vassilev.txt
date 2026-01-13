@@ -1,0 +1,9 @@
+Raspberry Pi ID recovery code
+
+If you lose your authenticator app, you can use the following recovery code to
+bypass two-factor authentication and sign in:
+
+  zsfg-jztk-yast-kfmx-pdce
+
+Email: stoian.vassilev@gmail.com
+Generated: 2026-01-07T15:45:42.356Z
